@@ -141,5 +141,3 @@ streamlit run app.py
 
 ## 🙏 Thank You
 
-```
-```
